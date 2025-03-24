@@ -1,0 +1,12 @@
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\bin\Debug\Desktop_crud.exe.config
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\bin\Debug\Desktop_crud.exe
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\bin\Debug\Desktop_crud.pdb
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_crud.csproj.AssemblyReference.cache
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_crud.Properties.Resources.resources
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_crud.csproj.GenerateResource.cache
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_crud.csproj.CoreCompileInputs.cache
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_crud.exe
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_crud.pdb
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_crud.Form1.resources
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\bin\Debug\AjaxControlToolkit.dll
+C:\Users\kisho\source\repos\Desktop_crud\Desktop_crud\obj\Debug\Desktop_.7B047BEE.Up2Date
