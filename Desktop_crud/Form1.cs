@@ -23,7 +23,7 @@ namespace Desktop_crud
      
         private void Form1_Load(object sender, EventArgs e)
         {
-            con = new SqlConnection("Data Source=KUSUPATI\\SQLEXPRESS;Integrated Security=True;database=SAMPLEDB");
+            con = new SqlConnection("Data Source=LAPTOP-5TGQ2ND4\\MSSQLSERVER1;Integrated Security=True;database=SAMPLEDB");
             cmd = new SqlCommand();
             cmd.Connection = con;
             con.Open();
@@ -222,6 +222,11 @@ namespace Desktop_crud
             txtSALARY.Clear();
             txtENO.Clear();
             chkStatus.Checked=false;
+        }
+
+        private void btnCLOSE_Click(object sender, EventArgs e)
+        {
+            this.Close();//Code changes made for close button click
         }
     }
     }

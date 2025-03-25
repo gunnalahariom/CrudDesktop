@@ -50,6 +50,16 @@
             ((System.ComponentModel.ISupportInitialize)(this.dtgrid)).BeginInit();
             this.SuspendLayout();
             // 
+            // btnCLEAR
+            // 
+            btnCLEAR.Location = new System.Drawing.Point(652, 396);
+            btnCLEAR.Name = "btnCLEAR";
+            btnCLEAR.Size = new System.Drawing.Size(75, 23);
+            btnCLEAR.TabIndex = 17;
+            btnCLEAR.Text = "CLEAR";
+            btnCLEAR.UseVisualStyleBackColor = true;
+            btnCLEAR.Click += new System.EventHandler(this.btnCLEAR_Click);
+            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -200,16 +210,7 @@
             this.btnCLOSE.TabIndex = 16;
             this.btnCLOSE.Text = "CLOSE";
             this.btnCLOSE.UseVisualStyleBackColor = true;
-            // 
-            // btnCLEAR
-            // 
-            btnCLEAR.Location = new System.Drawing.Point(652, 396);
-            btnCLEAR.Name = "btnCLEAR";
-            btnCLEAR.Size = new System.Drawing.Size(75, 23);
-            btnCLEAR.TabIndex = 17;
-            btnCLEAR.Text = "CLEAR";
-            btnCLEAR.UseVisualStyleBackColor = true;
-            btnCLEAR.Click += new System.EventHandler(this.btnCLEAR_Click);
+            this.btnCLOSE.Click += new System.EventHandler(this.btnCLOSE_Click);
             // 
             // Form1
             // 
