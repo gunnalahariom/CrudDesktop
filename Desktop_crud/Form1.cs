@@ -227,6 +227,7 @@ namespace Desktop_crud
         private void btnCLOSE_Click(object sender, EventArgs e)
         {
             this.Close();//Code changes made for close button click
+            //revied chnages for Close Button logic
         }
     }
     }
